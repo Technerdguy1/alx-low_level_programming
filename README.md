@@ -12,10 +12,11 @@ Technologies
 - C files are written according to the C90 standard
 
 Projects
-  --------------------------
+  --------------------
   The following are project folders done in the course of the studies:
 | Project | Description|
-|---------|-----------||[0x00-hello_world](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x00-hello_world) | Why C programming is awesome
+| ---- | ---- |
+|[0x00-hello_world](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x00-hello_world) | Why C programming is awesome
 Who invented C;
 Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
 What happens when you type gcc main.c
