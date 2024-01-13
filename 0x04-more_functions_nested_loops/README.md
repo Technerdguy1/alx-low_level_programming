@@ -24,5 +24,6 @@ The following are programs written in **C Language**
 | `7-print_diagonal.c` | Draws a diagonal line on the terminal |
 | `8-print_square.c` | Prints a square, followed by a new line |
 | `9-fizz_buzz.c` | A program that prints the numbers from `1` to `100`, followed by a new line. For multiples of three print `Fizz` instead of the number and for the multiples of five print `Buzz`. |
-| `10-print_triangle.c` | Prints a triangle, followed by a new line. | `100-prime_factor.c` | Finds finds and prints the largest prime factor of the number `612852475143` |
+| `10-print_triangle.c` | Prints a triangle, followed by a new line.
+| `100-prime_factor.c`| Finds finds and prints the largest prime factor of the number `612852475143` |
 | `101-print_number.c` | A function that prints an integer. |
