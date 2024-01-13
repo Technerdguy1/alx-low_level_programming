@@ -11,7 +11,8 @@ C files are compiled using;
 Files
   -------------------
 The following are programs written in **C Language**
-| --- | ---|
-| Filename | Description|
+
+| ---- | ---- |
+| Filename | Description |
 | [`0-isupper.c`] | A function that checks for uppercase character.|
 
