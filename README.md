@@ -25,5 +25,6 @@ Projects
 | [0x06-pointers_arrays_strings](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings) | To learn more about pointers and arrays and how to use them; the differences between pointers and arrays and how to use them and lastly how to use and manipulate strings.|
 | [0x07-pointers_arrays_strings](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings) |It aims was to learn about pointers to pointers and how to use them; multidimensional arrays (2D) and how to use them; and lastly standard library functions to manipulate strings in *C Language.* |
 | [0x08-recursion](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x08-recursion) | It aims was to learn about recursion and how to implement recursion. In what situations to implement recursion and in what situations not to implement recursion.|
-| [0x09-static_libraries](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x09-static_libraries) | This project was about how to create a static and dynamic libraries in *C Language.* |
-| [0x0A-argc_argv] |
+| [0x09-static_libraries](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x09-static_libraries) | This project was about how to create a static and dynamic libraries in **C Language.** |
+| [0x0A-argc_argv](https://github.com/Technerdguy1/alx-low_level_programming/tree/master/0x09-static_libraries) |How to use arguments and pass them and how to use two prototypes of main function in **C Language.** |
+| []() |
