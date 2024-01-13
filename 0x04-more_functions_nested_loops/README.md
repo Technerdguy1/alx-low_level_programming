@@ -9,9 +9,8 @@ C files are compiled using;
  - Tested on Ubuntu `20.04 LTS`
 
 Files
-  -------------------
+  -----------------
 The following are programs written in **C Language**
-
 | ---- | ---- |
 | Filename | Description |
 | [`0-isupper.c`] | A function that checks for uppercase character.|
