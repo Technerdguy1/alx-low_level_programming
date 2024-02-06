@@ -18,7 +18,8 @@ Technologies
 
 Files
   ----------------
-The following files are programs written in C:| Filename | Description |
+The following files are programs written in C:
+| Filename | Description |
 | ---- | ---- |
 | `0-print_listint.c` | A function that prints all the elements of a `listint_t list.`
 | `1-listint_len.c` | A function that returns the number of elements in linked `listint_t` list. |
