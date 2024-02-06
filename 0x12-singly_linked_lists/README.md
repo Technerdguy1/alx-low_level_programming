@@ -28,5 +28,4 @@ The following files are programs written in C:
 | `3-add_node_end.c` | A function that adds a new node at the end of a `list_t` list. |
 | `4-free_list.c` | A function that frees a `list_t` list. |
 | `100-first.c` | Write a function that prints `You're beat! and yet, you must allow,\nI bore my house upon my back!\n` before the `main` function is executed. |
-| `101-hello_holberton.asm` |
-Write a 64-bit program in assembly that prints`Hello, Holberton,` followed by a new line. |
+| `101-hello_holberton.asm` | Write a 64-bit program in assembly that prints`Hello, Holberton,` followed by a new line. |
